@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have 2 years of experience as a Software development engineer @Getsupp @Innovaccer. Currently a grad student at IIT Chicago pursuing Master in Computer Science 
+I have 4 years of experience as a Software development engineer @Getsupp @Innovaccer. Currently a grad student at IIT Chicago pursuing Master in Computer Science 
 <!--
 **Shallum99/Shallum99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
